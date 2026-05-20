@@ -1,0 +1,31 @@
+{
+  "name": "dilpreetsinghverma",
+  "version": "1.0.2",
+  "description": "Dilpreet Singh Verma's interactive developer card — run 'npx dilpreetsinghverma'",
+  "bin": {
+    "dilpreetsinghverma": "bin/card.js"
+  },
+  "scripts": {
+    "start": "node bin/card.js"
+  },
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "gradient-string": "^2.0.2"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "keywords": [
+    "dilpreet",
+    "business-card",
+    "developer-card",
+    "npx-card"
+  ],
+  "author": "Dilpreet Singh Verma <dilpreetsinghverma@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DilpreetSinghVerma/npx-card"
+  }
+}
