@@ -195,11 +195,9 @@ const dilpreet = {
 
 <div align="center">
 
-<!-- Snake animation — requires a GitHub Action (see .github/workflows/snake.yml) -->
-<!-- Once set up, uncomment this line: -->
-<!-- <img src="https://raw.githubusercontent.com/DilpreetSinghVerma/DilpreetSinghVerma/output/github-contribution-grid-snake-dark.svg" /> -->
+<img src="https://raw.githubusercontent.com/DilpreetSinghVerma/DilpreetSinghVerma/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<!-- Fallback: activity graph (works immediately, no setup needed) -->
+<!-- Activity graph — also shown below the snake -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DilpreetSinghVerma&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" width="100%"/>
 
 </div>
