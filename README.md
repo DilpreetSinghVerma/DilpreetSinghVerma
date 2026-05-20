@@ -222,7 +222,29 @@ const dilpreet = {
 <!--                    CONNECT                                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    NPX CARD                                -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 💻 Interactive Dev Card
+
+<div align="center">
+
+Run this in your terminal to see my interactive developer card:
+
+```bash
+npx dilpreetsinghverma
+```
+
+[![NPM Version](https://img.shields.io/npm/v/dilpreetsinghverma?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)](https://www.npmjs.com/package/dilpreetsinghverma)
+[![NPM Downloads](https://img.shields.io/npm/dt/dilpreetsinghverma?style=for-the-badge&logo=npm&logoColor=white&color=58a6ff)](https://www.npmjs.com/package/dilpreetsinghverma)
+
+</div>
+
+---
+
 ## 🤝 Connect With Me
+
 
 <div align="center">
 
